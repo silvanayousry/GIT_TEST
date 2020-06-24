@@ -20,5 +20,6 @@ func main() {
 	fmt.Scanln(&b)
 	max = getmax(a, b)
 	fmt.Println("max value is", max)
+	fmt.Println("hello")
 
 }
