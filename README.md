@@ -7,7 +7,3 @@ making a simple website to learn more
 * tutorial 
 * learning
 * html
-=======
-
-
->>>>>>> 52665d30df9f89217e59d43c641f2a4c2a4dd4de
