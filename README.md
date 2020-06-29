@@ -7,3 +7,4 @@ making a simple website to learn more
 * tutorial 
 * learning
 * html
+`` sudo apt update ``
