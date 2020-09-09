@@ -11,7 +11,7 @@ it also can upload any chosen file.
 
 ---
 
-## Sequence of the code
+## Sequence of running the code
 -generating two log files one for http request and another one for headless browrser
 
 -open pages
@@ -22,10 +22,13 @@ it also can upload any chosen file.
 
 --- 
 
-# Installation   
+# Installation 
+
 .**Go intsall**
+
  A sample installation of go version 1.14:
- 1.for Linux
+ **1.for Linux**
+ 
  Prepare the apt packages
  
  `` sudo apt update                    
@@ -54,7 +57,8 @@ Use the command
  export PATH=$PATH:/usr/local/go/bin             
 ``
 
-2.for windows
+**2.for windows**
+
 Link of download of vesion 1.15 (https://golang.org/dl/go1.15.1.windows-amd64.msi)
 
 
