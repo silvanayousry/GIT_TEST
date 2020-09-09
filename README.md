@@ -1,12 +1,14 @@
 <<<<<<< HEAD
 # Traffic Generator Golang version
 ## Description of the work
+
 The code read urls from text file and open the page or download html file of each url according to the case chosen. 
 it can open pages and download files using http request. 
 it takes screenshot of each opened page by the url using headless browser and save it in file.png according to the type wrtten in the the text either it's browser or request.
 it generate log file contain the runtime , response time , url , status code for each url in the text file. 
 each url link has timeout inserted in config.toml file.
 it also can upload any chosen file.
+
 ---
 
 ## Sequence of the code
@@ -14,16 +16,21 @@ it also can upload any chosen file.
 -open pages 
 -download files
 -upload
+
 --- 
+
 # Installation   
 .**Go intsall**
  A sample installation of go version 1.14:
  1.for Linux
  Prepare the apt packages
+ 
  `` sudo apt update                    
   ``
+  
  ``sudo apt upgrade
  ``
+ 
  Link of download of version 1.14 (https://dl.google.com/go/go1.14.linux-amd64.tar.gz)
 
 Use the command
