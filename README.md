@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Traffic Generator Golang version
 ## Description of the work
 The code read urls from text file and open the page or download html file of each url according to the case chosen. 
@@ -44,3 +45,19 @@ Link of download of vesion 1.15 (https://golang.org/dl/go1.15.1.windows-amd64.ms
 To test the code, use the go run command
 ``go run main.go
 ``
+=======
+# GIT_TEST
+exploring git and github
+learning basics of GIt
+## learning basics of html 
+making a simple website to learn more 
+<<<<<<< HEAD
+* tutorial 
+* learning
+* html
+
+`` sudo apt update ``
+
+
+
+>>>>>>> 1d67ac5a884c0209632d2ba1118dfe2a03be303c
