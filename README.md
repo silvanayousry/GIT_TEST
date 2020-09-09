@@ -13,8 +13,11 @@ it also can upload any chosen file.
 
 ## Sequence of the code
 -generating two log files one for http request and another one for headless browrser
--open pages 
+
+-open pages
+
 -download files
+
 -upload
 
 --- 
