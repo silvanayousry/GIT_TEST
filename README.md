@@ -37,24 +37,32 @@ it also can upload any chosen file.
  Link of download of version 1.14 (https://dl.google.com/go/go1.14.linux-amd64.tar.gz)
 
 Use the command
+
 ``
  wget https://dl.google.com/go/go1.14.linux-amd64.tar.gz
  ``
+ 
  Untar in /usr/local
+
 ``
  tar -C /usr/local -xzf go1.14.linux-amd64.tar.gz                   
  ``
+ 
  Add /usr/local/go/bin to the PATH environment variable:
+ 
  ``
  export PATH=$PATH:/usr/local/go/bin             
 ``
+
 2.for windows
 Link of download of vesion 1.15 (https://golang.org/dl/go1.15.1.windows-amd64.msi)
 
 
 To test the code, use the go run command
+
 ``go run main.go
 ``
+
 =======
 # GIT_TEST
 exploring git and github
