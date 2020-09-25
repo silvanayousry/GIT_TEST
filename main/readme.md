@@ -6,7 +6,9 @@ initial code that upload a file and send it to MinIO and retrieve a MinIO path a
 
 # Installation   
 **Go intsall**
+
 A sample installation of go version 1.14:
+
  1.for Linux
  
  Prepare the apt packages
